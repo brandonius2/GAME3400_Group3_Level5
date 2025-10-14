@@ -29676,6 +29676,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7906351407375733665, guid: 6a3b35d4e95f777419329ac8c61faa47, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a71e89e48b56a2748a0c1d5638c5de78, type: 2}
+    - target: {fileID: -7906351407375733665, guid: 6a3b35d4e95f777419329ac8c61faa47, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2f2a924b53938b14db11f4e21950dc6d, type: 2}
     - target: {fileID: 919132149155446097, guid: 6a3b35d4e95f777419329ac8c61faa47, type: 3}
       propertyPath: m_Name
       value: dormdesk (1)
@@ -40182,6 +40190,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7906351407375733665, guid: 6a3b35d4e95f777419329ac8c61faa47, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3882e8bc06802754dae221aa290553fd, type: 2}
+    - target: {fileID: -7906351407375733665, guid: 6a3b35d4e95f777419329ac8c61faa47, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2f2a924b53938b14db11f4e21950dc6d, type: 2}
     - target: {fileID: 919132149155446097, guid: 6a3b35d4e95f777419329ac8c61faa47, type: 3}
       propertyPath: m_Name
       value: dormdesk
