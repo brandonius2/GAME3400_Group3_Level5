@@ -36559,6 +36559,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: d7e16eb3d9964b4489f8495fb34466e0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04f1fb4f3b8445244a79570bb49b7486, type: 2}
     - target: {fileID: 919132149155446097, guid: d7e16eb3d9964b4489f8495fb34466e0, type: 3}
       propertyPath: m_Name
       value: smalldresser
@@ -46617,6 +46621,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0a1c7587191705a44a29e9546e56a9e9, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 569aedf73aa928549bb706d887fd1edd, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 0a1c7587191705a44a29e9546e56a9e9, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b53f337c691bb5d49934617fef0b549e, type: 2}
     - target: {fileID: 919132149155446097, guid: 0a1c7587191705a44a29e9546e56a9e9, type: 3}
       propertyPath: m_Name
       value: smalldresseropen
@@ -46674,6 +46686,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -360
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9d4ef7fbe99bebd4fb15def38a6aae92, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 75963e752d94b3646b470addd7cfcedf, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 9d4ef7fbe99bebd4fb15def38a6aae92, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6f58a3592fd49e14dbb0cfbe08afc816, type: 2}
     - target: {fileID: 919132149155446097, guid: 9d4ef7fbe99bebd4fb15def38a6aae92, type: 3}
       propertyPath: m_Name
       value: bigdresser
