@@ -3221,15 +3221,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 475468248962212348, guid: bfd7fda9b09b1dd4183435bcf542cd9d, type: 3}
       propertyPath: m_Color.b
-      value: 0.444029
+      value: 0.32244205
       objectReference: {fileID: 0}
     - target: {fileID: 475468248962212348, guid: bfd7fda9b09b1dd4183435bcf542cd9d, type: 3}
       propertyPath: m_Color.g
-      value: 0.444029
+      value: 0.81277907
       objectReference: {fileID: 0}
     - target: {fileID: 475468248962212348, guid: bfd7fda9b09b1dd4183435bcf542cd9d, type: 3}
       propertyPath: m_Color.r
-      value: 0.98742133
+      value: 0.9547169
+      objectReference: {fileID: 0}
+    - target: {fileID: 475468248962212348, guid: bfd7fda9b09b1dd4183435bcf542cd9d, type: 3}
+      propertyPath: m_Intensity
+      value: 0.63
       objectReference: {fileID: 0}
     - target: {fileID: 6728973462207189446, guid: bfd7fda9b09b1dd4183435bcf542cd9d, type: 3}
       propertyPath: m_LocalPosition.x
